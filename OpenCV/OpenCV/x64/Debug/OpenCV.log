@@ -1,0 +1,20 @@
+﻿  OpenCV.cpp
+c:\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+c:\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+c:\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+c:\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+c:\users\user\documents\visual studio 2015\projects\opencv\opencv\opencv.cpp(53): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+c:\users\user\documents\visual studio 2015\projects\opencv\opencv\opencv.cpp(68): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\documents\visual studio 2015\projects\opencv\opencv\opencv.cpp(69): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\documents\visual studio 2015\projects\opencv\opencv\opencv.cpp(70): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\documents\visual studio 2015\projects\opencv\opencv\opencv.cpp(71): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\documents\visual studio 2015\projects\opencv\opencv\opencv.cpp(74): warning C4244: '引數': 將 'double' 轉換為 'unsigned __int64'，由於類型不同，可能導致資料遺失
+c:\users\user\documents\visual studio 2015\projects\opencv\opencv\opencv.cpp(84): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\documents\visual studio 2015\projects\opencv\opencv\opencv.cpp(86): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\documents\visual studio 2015\projects\opencv\opencv\opencv.cpp(101): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\documents\visual studio 2015\projects\opencv\opencv\opencv.cpp(123): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\documents\visual studio 2015\projects\opencv\opencv\opencv.cpp(177): warning C4244: '+=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\documents\visual studio 2015\projects\opencv\opencv\opencv.cpp(178): warning C4244: '+=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\documents\visual studio 2015\projects\opencv\opencv\opencv.cpp(124): warning C4101: 'temp': 未參考的區域變數
+  OpenCV.vcxproj -> C:\Users\User\Documents\Visual Studio 2015\Projects\OpenCV\x64\Debug\OpenCV.exe
+  OpenCV.vcxproj -> C:\Users\User\Documents\Visual Studio 2015\Projects\OpenCV\x64\Debug\OpenCV.pdb (Full PDB)
