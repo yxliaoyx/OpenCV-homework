@@ -1,2 +1,3 @@
 # OpenCV-homework
-Breakout clone
+block-breaking game
+https://www.youtube.com/watch?v=ajlbLi05168
